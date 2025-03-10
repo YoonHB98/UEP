@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\uep\\uep\\intermediate\\build\\win64\\unrealeditor\\inc\\uep\\uht\\uepplayercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\uep\\uep\\intermediate\\build\\win64\\x64\\uepeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\uep\\uep\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\uep\\definitions.uep.h",
+            "d:\\uep\\uep\\source\\uep\\uepplayercontroller.h",
+            "d:\\uep\\uep\\intermediate\\build\\win64\\unrealeditor\\inc\\uep\\uht\\uepplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

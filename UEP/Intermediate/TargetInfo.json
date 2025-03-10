@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UEP",
+			"Path": "..\\Source\\UEP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UEPEditor",
+			"Path": "..\\Source\\UEPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

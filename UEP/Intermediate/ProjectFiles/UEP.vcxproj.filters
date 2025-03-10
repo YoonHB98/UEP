@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UEP.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UEP.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UEPEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UEP">
+      <UniqueIdentifier>{B5726FC6-AF6D-3975-9DC7-9223BDD7BB93}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UEP\UEP.Build.cs">
+      <Filter>Source\UEP</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UEP\UEP.cpp">
+      <Filter>Source\UEP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UEP\UEP.h">
+      <Filter>Source\UEP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UEP\UEPCharacter.cpp">
+      <Filter>Source\UEP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UEP\UEPCharacter.h">
+      <Filter>Source\UEP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UEP\UEPGameMode.cpp">
+      <Filter>Source\UEP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UEP\UEPGameMode.h">
+      <Filter>Source\UEP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UEP\UEPPlayerController.cpp">
+      <Filter>Source\UEP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UEP\UEPPlayerController.h">
+      <Filter>Source\UEP</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
